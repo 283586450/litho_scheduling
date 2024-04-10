@@ -1,0 +1,6 @@
+# ninja log v5
+2	6231	1712737857315164985	CMakeFiles/litho_scheduling.dir/src/main.cpp.o	a15369227f2d38c0
+6231	6514	1712737857605164982	litho_scheduling	ab0fb873fef877cf
+2	3442	1712737573945168444	CMakeFiles/litho_scheduling.dir/src/read_data.cpp.o	cb56ac4048804762
+3	11446	1712737698145166928	CMakeFiles/litho_scheduling.dir/src/build_model.cpp.o	129c6a8f9497b9cd
+3	2699	1712737573205168453	CMakeFiles/litho_scheduling.dir/src/solve_model.cpp.o	62204c8cf854f647
